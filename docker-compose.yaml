@@ -1,5 +1,4 @@
 services:
-
   apps:
     build: ./apps
     ports:
